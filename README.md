@@ -34,4 +34,7 @@ This project is intended for educational and prototyping purposes. Li-ion batter
 
 - [PCB_PCB3_2026-02-26.zip](https://github.com/user-attachments/files/25584292/PCB_PCB3_2026-02-26.zip)
 
+<img width="2160" height="3291" alt="Image" src="https://github.com/user-attachments/assets/8f08b75f-e720-47ff-abc3-705c63cb0893" />
+
+
 
