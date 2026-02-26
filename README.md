@@ -31,3 +31,7 @@ This project is intended for educational and prototyping purposes. Li-ion batter
 - Fast charging support (QC/PD)  
 - Battery percentage indicator (LED/OLED)  
 - Improved efficiency and thermal performance
+
+- [PCB_PCB3_2026-02-26.zip](https://github.com/user-attachments/files/25584292/PCB_PCB3_2026-02-26.zip)
+
+
